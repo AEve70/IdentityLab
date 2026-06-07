@@ -1,0 +1,74 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Packages
+packages/
+
+# Test Results
+TestResults/
+
+# Entity Framework
+*.dbmdl
+
+# SQL Server LocalDB
+*.mdf
+*.ldf
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish output
+publish/
+wwwroot/dist/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Secrets
+secrets.json
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Node.js (por si agregas frontend)
+node_modules/
+
+# Generated files
+Generated/
